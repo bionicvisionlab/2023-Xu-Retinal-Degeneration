@@ -1,0 +1,5 @@
+# the leakage is tuned so that the spontaneous firing rate is close to 2 Hz with light 0.5
+# remember to switch between full and mini for different purposes
+gl_on_leakage,0.3
+gl_off_leakage,0.274
+network_size_option,full
