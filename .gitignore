@@ -1,5 +1,11 @@
 # large files
 data/
+figures/delta-ve*/
+figures/*workspace*/
+
+# GeNN files and brian2 files
+figures/GeNNworkspace*/
+figures/debug.log
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
