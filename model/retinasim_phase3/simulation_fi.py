@@ -1,7 +1,7 @@
 from brian2 import *
 import numpy as np
-from retinasim.simulation_utils import save_delta_ve, SimulationParam
-from retinasim.retina_network_fi import retina_simulation
+from model.retinasim_phase3.simulation_utils import save_delta_ve, SimulationParam
+from model.retinasim_phase3.retina_network_fi import retina_simulation
 
 # sp can be either the path to a txt file containing the simulation parameters or a SimulationParam object
 def fi_curve_simulation(time_in_ms, sp, injected_current_on, injected_current_off, pre_computed_weights_folder, lstim=None, estim=None, delta_ve_folder="delta_ve_workspace", dt=0.1, debug=False, gpu=True, select_GPU=None, genn_directory=None):
