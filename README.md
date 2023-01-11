@@ -1,5 +1,3 @@
-# Delayed degeneration of OFF vs. ON retinal ganglion cells in a biophysically detailed computational model of the retina
-
 Required Python packages:
 * [brian2](https://brian2.readthedocs.io/en/stable/)
 * [brian2genn](https://brian2genn.readthedocs.io/en/stable/)
