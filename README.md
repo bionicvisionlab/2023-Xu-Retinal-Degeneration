@@ -1,8 +1,8 @@
-# Retinal ganglion cells undergo cell type–specific functional changes in a biophysically detailed model of retinal degeneration
+# Retinal ganglion cells undergo cell type--specific functional changes in a computational model of cone-mediated retinal degeneration
 
 Please cite as:
 
-> A Xu, M Beyeler (2023). Retinal ganglion cells undergo cell type–specific functional changes in a biophysically detailed model of retinal degeneration. *bioRxiv*, doi:[10.1101/2023.01.13.523982v1](https://www.biorxiv.org/content/10.1101/2023.01.13.523982v1)
+> A Xu, M Beyeler (2023). Retinal ganglion cells undergo cell type--specific functional changes in a computational model of cone-mediated retinal degeneration. *bioRxiv*, doi:[10.1101/2023.01.13.523982v1](https://www.biorxiv.org/content/10.1101/2023.01.13.523982v1)
 
 Required Python packages:
 * [brian2](https://brian2.readthedocs.io/en/stable/)
